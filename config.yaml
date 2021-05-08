@@ -62,7 +62,7 @@ params:
 
     widgets:
         enabled:
-            #- search
+            - search
             #- archives
             #- tag-cloud
 
