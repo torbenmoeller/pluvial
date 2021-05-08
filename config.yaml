@@ -64,7 +64,7 @@ params:
         enabled:
             - search
             #- archives
-            #- tag-cloud
+            - tag-cloud
 
         archives:
             limit: 5
