@@ -1,0 +1,16 @@
+main:
+  - identifier: search
+    name: Search
+    url: /search
+    weight: 10
+    pre: search
+  - identifier: articles
+    name: All Articles
+    url: /
+    weight: 20
+    pre: home
+  - identifier: about
+    name: About Me
+    url: /about-me
+    weight: 30
+    pre: user
