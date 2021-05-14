@@ -48,8 +48,8 @@
 
         {{ if (default false .Site.Params.colorScheme.toggle) }}
             <li id="dark-mode-toggle">
-                {{ partial "helper/icon" "toggle-left" }}
-                {{ partial "helper/icon" "toggle-right" }}
+                {{ partial "helper/icon" "toggle-off" }}
+                {{ partial "helper/icon" "toggle-on" }}
                 <span>{{ T "darkMode" }}</span>
             </li>
         {{ end }}
