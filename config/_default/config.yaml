@@ -1,0 +1,13 @@
+baseurl: https://example.com
+languageCode: en-us
+theme: hugo-theme-stack
+paginate: 5
+title: Pluvial
+enableGitInfo: true
+
+#Enable robots.txt in layout folder
+enableRobotsTXT: true
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
+DefaultContentLanguage: en
