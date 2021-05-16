@@ -25,19 +25,19 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --main-top-padding: 50px;
     }
 
-    --body-background: #f5f5fa;
+    --body-background: #eceff1;
 
-    --accent-color: #34495e;
+    --accent-color: #000;
     --accent-color-darker: #2c3e50;
     --accent-color-text: #fff;
-    --body-text-color: #666666;
+    --body-text-color: #000000;
 
     --tag-border-radius: 4px;
 
     --section-separation: 40px;
 
     [data-scheme="dark"] {
-        --body-background: #303030;
+        --body-background: #263238;
         --accent-color: #ecf0f1;
         --accent-color-darker: #bdc3c7;
         --accent-color-text: #000;
@@ -52,7 +52,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
     --zh-font-family: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
 
-    --base-font-family: "Lato", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --base-font-family: "Noto Sans JP", var(--sys-font-family), var(--zh-font-family), sans-serif;
     --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
@@ -61,7 +61,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 */
 :root {
     --card-background: #fff;
-    --card-background-selected: #eaeaea;
+    --card-background-selected: #b0bec5;
 
     --card-text-color-main: #000;
     --card-text-color-secondary: #747474;
@@ -84,7 +84,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     }
 
     [data-scheme="dark"] {
-        --card-background: #424242;
+        --card-background: #37474f;
         --card-background-selected: rgba(255, 255, 255, 0.16);
         --card-text-color-main: rgba(255, 255, 255, 0.9);
         --card-text-color-secondary: rgba(255, 255, 255, 0.7);
