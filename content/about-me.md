@@ -53,3 +53,15 @@ The shortcodes details, hint, mermaid and tabs from the [Hugo Book Theme](https:
 [License](../license/hugo-book-license.txt)
 
 {{< /details >}}
+
+
+
+{{< details title="Noto Sans JP" open=false >}}
+
+The font "Noto Sans JP" is licensed under the SIL Open Font License, Version 1.1.
+
+[Website](https://fonts.google.com/specimen/Noto+Sans+JP)
+
+[License](../license/OFL.txt)
+
+{{< /details >}}
