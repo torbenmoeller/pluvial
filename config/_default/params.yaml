@@ -6,7 +6,7 @@ favicon:
 
 footer:
   since: 2021
-  author: Torben Möller
+  author: Content by Torben Möller is licensed under CC BY 4.0.
   customText: Hosted on Firebase
 
 dateFormat:
@@ -23,8 +23,7 @@ sidebar:
 article:
   math: false
   license:
-    enabled: true
-    default: Torben Möller
+    enabled: false
 
 comments:
   enabled: false

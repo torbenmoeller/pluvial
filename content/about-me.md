@@ -4,7 +4,18 @@ description:
 ---
 
 
-## Notices
+# License
+
+The content on this website by Torben Möller is licensed under CC BY 4.0.
+See [CC-BY-4.0-LICENCSE](../license/CC-BY-4.0-LICENCSE.txt) for more information.
+
+Any code examples used in the blog content are licensed under the MIT license.
+See [MIT-LICENSE](../license/MIT-LICENSE.txt) for more information.
+
+The source code of the blog is distributed under the GNU GENERAL PUBLIC LICENSE Version 3.
+See [GPLV3-LICENSE](../license/GPLV3-LICENSE.txt) for more information.
+
+# Acknowledgements
 
 {{< details title="Hugo" open=false >}}
 
