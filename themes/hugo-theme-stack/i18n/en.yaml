@@ -50,4 +50,4 @@ footer:
     builtWith:
         other: Built with {{ .Generator }}
     designedBy:
-        other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
+        other: Design is based on {{ .Theme }}  by {{ .DesignedBy }}
