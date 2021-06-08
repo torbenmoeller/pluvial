@@ -1,4 +1,4 @@
-baseurl: https://pluvial.web.app/
+baseurl: https://pluvial.dev/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
