@@ -3,6 +3,8 @@ title: About Me
 description: 
 ---
 
+# Contact
+Get in touch: contact@pluvial.dev
 
 # License
 
