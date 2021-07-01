@@ -11,8 +11,7 @@ Hi, there! I'm Torben.
 ✍   For development I usually really on Java and Python,
 but I programmed in over 15 programming languages.
 
-📚   A friend of mine told me that I collect certifications like Pokémon,
-I'm a certified GCP Professional Cloud Architect and Professional Cloud DevOps Engineer,
+📚   Among other I'm a certified GCP Professional Cloud Architect, GCP Professional Cloud DevOps Engineer,
 AWS Solutions Architect Associate and Certified ScrumMaster (CSM). Check out my
 [LinkedIn profile](https://www.linkedin.com/in/torben-moeller/) for a much longer list 😀
 
