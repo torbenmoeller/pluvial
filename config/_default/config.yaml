@@ -3,7 +3,7 @@ languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: Pluvial
-enableGitInfo: true
+enableGitInfo: false
 
 #Enable robots.txt in layout folder
 enableRobotsTXT: true
