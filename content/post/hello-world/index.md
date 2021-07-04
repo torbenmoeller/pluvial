@@ -1,7 +1,7 @@
 +++
 author = "Torben"
 title = "Hello, World!"
-date = "2021-06-09"
+date = "2021-07-05"
 description = "A blog of a thousand articles begins with a single post."
 +++
 
@@ -9,7 +9,7 @@ This is my first post!
 
 What would be better than writing a "Hello, World!" post?
 
-Print "Hello, World!" in every language I used! (I admit Docker and Terraform are not a languages, but they're still cool)
+Print "Hello, World!" in every language I used! (I have to admit Docker and Terraform are not languages, but they're still cool)
 
 Bash 
 {{< highlight bash >}}
