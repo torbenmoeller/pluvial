@@ -11,82 +11,82 @@ What would be better than writing a "Hello, World!" post?
 
 Print "Hello, World!" in every language I used! (I have to admit Docker and Terraform are not languages, but they're still cool)
 
-Bash 
+**Bash** 
 {{< highlight bash >}}
 echo "Hello, World!"
 {{< / highlight >}}
 
-BlitzBasic
+**BlitzBasic**
 {{< highlight blitzbasic >}}
 Print "Hello, World!"
 {{< / highlight >}}
 
-C
+**C**
 {{< highlight c >}}
 printf("Hello, World!");
 {{< / highlight >}}
 
-C++
+**C++**
 {{< highlight cpp >}}
 std::cout << "Hello, World!";
 {{< / highlight >}}
 
-C#
+**C#**
 {{< highlight csharp >}}
 Console.WriteLine("Hello, World!");
 {{< / highlight >}}
 
-Delphi
+**Delphi**
 {{< highlight js >}}
 WriteLn('Hello World');
 {{< / highlight >}}
 
-Docker
+**Docker**
 {{< highlight docker >}}
 docker run hello-world
 {{< / highlight >}}
 
-Go
+**Go**
 {{< highlight go >}}
 fmt.Println("Hello, World!")
 {{< / highlight >}}
 
-HTML
+**HTML**
 {{< highlight html >}}
 <h1>Hello, World!</h1>
 {{< / highlight >}}
 
-Java
+**Java**
 {{< highlight java >}}
 System.out.println("Hello, World!");
 {{< / highlight >}}
 
-JavaScript
+**JavaScript**
 {{< highlight javascript >}}
 alert( 'Hello, World!' );
 {{< / highlight >}}
 
-Kotlin
+**Kotlin**
 {{< highlight kotlin >}}
 println("Hello, World!")
 {{< / highlight >}}
 
-PowerShell
+**PowerShell**
 {{< highlight powershell >}}
 Write-Host "Hello, World!"
 {{< / highlight >}}
 
-Python 3
+**Python 3**
 {{< highlight python3 >}}
 print('Hello, World!')
 {{< / highlight >}}
 
-Ruby
+**Ruby**
 {{< highlight ruby >}}
 puts 'Hello, World!'
 {{< / highlight >}}
 
-Terraform 
+**Terraform** 
 {{< highlight terraform >}}
 terraform {
 required_version = ">= 0.12.26"
@@ -97,7 +97,7 @@ value = "Hello, World!"
 }
 {{< / highlight >}}
 
-TypeScript
+**TypeScript**
 {{< highlight typescript >}}
 const helloWorld = "Hello, World!"
 console.log(helloWorld)
