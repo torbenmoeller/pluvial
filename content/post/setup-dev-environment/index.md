@@ -1,7 +1,7 @@
 +++
 author = "Torben"
 title = "Jump start your windows setup"
-date = "2021-08-04"
+date = "2021-08-03"
 description = "Or: Install Chrome without using the Internet Explorer"
 categories = ["Cookbook",]
 tags = ["Developer Experience", "Winget", "Windows", "Cmd", "Powershell",]
