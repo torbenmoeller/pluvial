@@ -8,22 +8,22 @@ tags = ["Developer Experience", "Winget", "Windows", "Cmd", "Powershell",]
 +++
 
 # TL;DR
-Winget is a new tool published by Microsoft.
+winget is a new tool published by Microsoft.
 It helps with software installation and management.
-Winget can be used in scripts automatically install software on Windows. 
+winget can be used in scripts to automatically install software on Windows. 
 
 And: You can finally download a web browser without the Internet Explorer or Edge 😋
 
 # Motivation 
 * Setup of a fresh OS can be tedious
 * Setup of multiple PCs can be even more tedious
-* Installers are distributed all over the internet and be hard to find
+* Installers are distributed all over the internet and are hard to find
 * Installers from untrusted sources could contain malware 
-* Installers could be for old versions of the software
-* Manual execution of installers needs attention of a person
+* Installers could be outdated
+* Manual execution of installers need attention of a person
 
 # Prerequisites
-1. Installed Winget. You can get winget from
+1. Installed winget. You can get winget from:
    + [Microsoft Store](ms-windows-store://pdp/?ProductId=9nblggh4nns1)
    + [Manual Install](https://github.com/microsoft/winget-cli/releases/)
    + [Preinstalled on Windows 10 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
@@ -62,9 +62,9 @@ Successfully installed
 
 *winget install* can install a new browser without running Internet Explorer or Edge. 😋
 
-With these commands you can create scripts to jump start your windows setup.
+With these commands you can create scripts to jump start your Windows setup.
 In order to install software silently use *-h* as a parameter and run winget in an elevated command prompt. 
-Now the script run without the need for manual intervention.
+Now the script can run without the need for manual intervention.
 I wrote some example scripts, which you can also find in 
 [this GitHub project](https://github.com/torbenmoeller/setup-scripts).
 
@@ -113,12 +113,12 @@ winget install --id=Google.CloudSDK -e -h
 {{< / highlight >}}
 
 # Further Reading
-* Every script can be found in [this GitHub project](https://github.com/torbenmoeller/setup-scripts)
+* Every script can be found in [this GitHub project](https://github.com/torbenmoeller/setup-scripts).
 * In order to use the script after a fresh installation of Windows, you have to store them externally. 
   GitHub or an external hard drive are good solutions.
-* Winget is open source, so share your feedback or contribute on [GitHub](https://github.com/microsoft/winget-cli) 
+* Winget is open source, so share your feedback or contribute on [GitHub](https://github.com/microsoft/winget-cli).
 * [winstall.app](https://winstall.app/) is a helpful website to find software you may want to add to your scripts.
 * Installing .zip files is [not yet supported](https://github.com/microsoft/winget-cli/issues/140),
-  so tools like terraform, helm, maven have to be installed manually.
+  so tools like terraform, helm or maven have to be installed manually.
 * [Chocolatey](https://chocolatey.org/) can be used together with winget or as an alternative.
   Chocolatey also supports installation of zip files. 
