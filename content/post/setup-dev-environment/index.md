@@ -62,7 +62,7 @@ Successfully installed
 
 *winget install* can install a new browser without running Internet Explorer or Edge. 😋
 
-With these commands you can create scripts to jump start your Windows setup.
+With these commands, you can create scripts to jump-start your Windows setup.
 In order to install software silently use *-h* as a parameter and run winget in an elevated command prompt. 
 Now the script can run without the need for manual intervention.
 I wrote some example scripts, which you can also find in 
@@ -71,7 +71,7 @@ I wrote some example scripts, which you can also find in
 
 **Example Script to install common tools**
 {{< highlight powershell >}}
-# Install tools that are support different use cases and are language and cloud-agnostic.
+# Install tools that support different use cases and are language and cloud-agnostic.
 # Common Tools
 winget install --id=Notepad++.Notepad++ -e -h
 winget install --id=Mozilla.Firefox -e -h
