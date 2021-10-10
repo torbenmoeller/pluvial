@@ -8,11 +8,11 @@ tags = ["Python", "Flask", "Static Web Page"]
 +++
 
 # TL;DR
-Flask already serves static files by default.
-Complying with the default structure makes the setup very easy.
+Flask already serves static files by default, 
+hence complying with the default structure allows the setup to be very easy.
 
 # Motivation 
-* Very fast setup of a web server locally
+* Very fast setup of a local web server
 * One deployment artefact can contain static and dynamic parts
 
 # Prerequisites
