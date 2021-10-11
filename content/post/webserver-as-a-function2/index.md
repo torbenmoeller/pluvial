@@ -1,7 +1,7 @@
 +++
 author = "Torben"
 title = "Webserver as a function - Part 2"
-date = "2021-10-12"
+date = "2021-10-11"
 description = "Run Flask on GCP"
 categories = ["Cookbook",]
 tags = ["Python", "Flask", "Serverless", "FaaS", "GCP"]
