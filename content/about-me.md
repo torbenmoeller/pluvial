@@ -1,7 +1,25 @@
 ---
 title: About Me
-description: 
+description:
 ---
+
+# Who am I?
+Hi, there! I'm Torben.
+
+😎   I'm a passionate Solution Architect, DevOps engineer and Developer.
+
+✍   For development I usually really on Java and Python,
+but I programmed in over 15 programming languages.
+
+📚   Among other I'm a certified GCP Professional Cloud Architect, GCP Professional Cloud DevOps Engineer,
+AWS Solutions Architect Associate and Certified ScrumMaster (CSM). Check out my
+[LinkedIn profile](https://www.linkedin.com/in/torben-moeller/) for a much longer list 😀
+
+You can find out more about me here:
+
+[LinkedIn](https://www.linkedin.com/in/torben-moeller/)
+
+[GitHub](https://github.com/torbenmoeller)
 
 # Contact
 Get in touch: contact@pluvial.dev
