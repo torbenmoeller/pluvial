@@ -4,6 +4,7 @@ metadata:
   name: pluvial
   annotations:
     github.com/project-slug: torbenmoeller/pluvial
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
